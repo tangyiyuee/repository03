@@ -1,0 +1,8 @@
+use mysql;
+create table if not exists Student(
+id int, 
+name string,
+age int
+address string )
+partitioned by (day)
+row format delimited fields terminated by ","
