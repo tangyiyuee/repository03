@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is thrid A
+=======
+this is  second B
+>>>>>>> e4e91b69aa9829e068bf9548acc46dea1aa79798
